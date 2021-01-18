@@ -32,9 +32,9 @@ struct PageControl: UIViewRepresentable {
     }
     
     class Coordinator: NSObject {
-        var control: UIPageControl
+        var control: PageControl
         
-        init(_ control: UIPageControl) {
+        init(_ control: PageControl) {
             self.control = control
         }
         
