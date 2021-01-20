@@ -4,25 +4,48 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>landmarks.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
-		<key>watch-landmarks (Complication).xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
-		<key>watch-landmarks (Notification).xcscheme_^#shared#^_</key>
+		<key>landmarks-mac.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>watch-landmarks.xcscheme_^#shared#^_</key>
+		<key>landmarks-watch (Complication).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>landmarks-watch (Notification).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>landmarks-watch.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>landmarks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E24F461825A53CF400BBCD63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2A0C98A25B6504A007F7D1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2A0C9E825B65B7B007F7D1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
